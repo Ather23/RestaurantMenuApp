@@ -1,0 +1,5 @@
+C:\PiazzaMannaApp\PiazzaMannaForm\PiazzaMannaForm\bin\Release\net6.0-windows\publish\PiazzaMannaForm.exe
+C:\PiazzaMannaApp\PiazzaMannaForm\PiazzaMannaForm\bin\Release\net6.0-windows\publish\PiazzaMannaForm.dll
+C:\PiazzaMannaApp\PiazzaMannaForm\PiazzaMannaForm\bin\Release\net6.0-windows\publish\PiazzaMannaForm.deps.json
+C:\PiazzaMannaApp\PiazzaMannaForm\PiazzaMannaForm\bin\Release\net6.0-windows\publish\PiazzaMannaForm.runtimeconfig.json
+C:\PiazzaMannaApp\PiazzaMannaForm\PiazzaMannaForm\bin\Release\net6.0-windows\publish\PiazzaMannaForm.pdb

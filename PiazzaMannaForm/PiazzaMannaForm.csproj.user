@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\PiazzaMannaApp\PiazzaMannaForm\PiazzaMannaForm\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="HotTables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pizzas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLauncher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExtrasAndDrinks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Salads.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
